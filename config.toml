@@ -1,0 +1,49 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "hugo-theme-hello-friend"
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # "light" or "dark"
+  defaultTheme = "light"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 3
+  # Show reading time in minutes for posts
+  showReadingTime = false
+
+[languages]
+  [languages.en]
+    title = "Afrizal Habibi"
+    subtitle = ""
+    keywords = "programming, coding, afrizalhabibi, ngoding, tulisan"
+    copyright = ""
+    menuMore = "Show more"
+    writtenBy = "ditulis oleh"
+    readMore = "Selengkapnya"
+    readOtherPosts = "Tulisan Lainnya"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+
+    [languages.en.params.logo]
+      logoText = "afrizalhabibi/home/"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/afrizalhabibi_rounded.png"
+    # alt = "Your example logo alt text"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "tentang"
+        name = "Tentang Saya"
+        url = "/about"      
+      [[languages.en.menu.main]]
+        identifier = "archive"
+        name = "Arsip"
+        url = "/archive"        
+    
