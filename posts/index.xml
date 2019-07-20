@@ -6,17 +6,26 @@
     <description>Recent content in Posts on Afrizal Habibi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jul 2019 13:28:31 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2019 16:23:19 +0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Selamat Datang</title>
+      <link>/posts/selamatdatang/</link>
+      <pubDate>Sat, 20 Jul 2019 16:23:19 +0800</pubDate>
+      
+      <guid>/posts/selamatdatang/</guid>
+      <description>Di blog ini saya akan berbagi pengalaman tentang programming, desain dan beberapa hal lainnya yang menjadi hobi saya </description>
+    </item>
+    
+    <item>
       <title>Hello Friend</title>
-      <link>/posts/contohpost/</link>
+      <link>/posts/hellofriend/</link>
       <pubDate>Sun, 14 Jul 2019 13:28:31 +0800</pubDate>
       
-      <guid>/posts/contohpost/</guid>
+      <guid>/posts/hellofriend/</guid>
       <description>&amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame. Maybe I should give you a name&amp;hellip; But that&amp;rsquo;s a slippery slope. You&amp;rsquo;re only in my head. We have to remember that&amp;hellip; Shit. It&amp;rsquo;s actually happened. I&amp;rsquo;m talking to an imaginary person.</description>
     </item>
     
