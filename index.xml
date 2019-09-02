@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Afrizal Habibi</title>
-    <link>https://afrizalhabibi.me/</link>
+    <link>http://afrizalhabibi.me/</link>
     <description>Recent content on Afrizal Habibi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jul 2019 16:23:19 +0800</lastBuildDate>
     
-	<atom:link href="https://afrizalhabibi.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://afrizalhabibi.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Selamat Datang</title>
-      <link>https://afrizalhabibi.me/posts/selamatdatang/</link>
+      <link>http://afrizalhabibi.me/posts/selamatdatang/</link>
       <pubDate>Sat, 20 Jul 2019 16:23:19 +0800</pubDate>
       
-      <guid>https://afrizalhabibi.me/posts/selamatdatang/</guid>
+      <guid>http://afrizalhabibi.me/posts/selamatdatang/</guid>
       <description>Di blog ini saya akan berbagi pengalaman tentang programming, desain dan beberapa hal lainnya yang menjadi hobi saya </description>
     </item>
     
     <item>
       <title>Tentang Saya</title>
-      <link>https://afrizalhabibi.me/tentang/</link>
+      <link>http://afrizalhabibi.me/tentang/</link>
       <pubDate>Sun, 14 Jul 2019 13:28:31 +0800</pubDate>
       
-      <guid>https://afrizalhabibi.me/tentang/</guid>
+      <guid>http://afrizalhabibi.me/tentang/</guid>
       <description>Assalamu’alaikum Nama saya Afrizal Habibi. Biasanya dipanggil Habibi. Blog ini saya buat sebagai media berbagi ide, kreativitas dan pengalaman pribadi melalui tulisan. Glad läsning - Selamat Membaca 📖</description>
     </item>
     
     <item>
       <title>Arsip</title>
-      <link>https://afrizalhabibi.me/arsip/</link>
+      <link>http://afrizalhabibi.me/arsip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://afrizalhabibi.me/arsip/</guid>
+      <guid>http://afrizalhabibi.me/arsip/</guid>
       <description></description>
     </item>
     
