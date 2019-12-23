@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on Afrizal Habibi - Personal Blog</title>
+    <title>Abouts on Afrizal Habibi - Hujan dan Pertemuan</title>
     <link>https://afrizalhabibi.me/about/</link>
-    <description>Recent content in Abouts on Afrizal Habibi - Personal Blog</description>
+    <description>Recent content in Abouts on Afrizal Habibi - Hujan dan Pertemuan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>About Me</title>
+      <title>Tentang</title>
       <link>https://afrizalhabibi.me/about/about/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
       <guid>https://afrizalhabibi.me/about/about/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <description>Afrizal Habibi, seorang content writer kelahiran Sampit, 29 September. Membaca, menulis, dan sesekali mengabadikan momen kedalam sebuah foto.</description>
     </item>
     
   </channel>

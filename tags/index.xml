@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Afrizal Habibi - Personal Blog</title>
+    <title>Tags on Afrizal Habibi - Hujan dan Pertemuan</title>
     <link>https://afrizalhabibi.me/tags/</link>
-    <description>Recent content in Tags on Afrizal Habibi - Personal Blog</description>
+    <description>Recent content in Tags on Afrizal Habibi - Hujan dan Pertemuan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
@@ -12,56 +12,47 @@
     
     
     <item>
-      <title>Game</title>
-      <link>https://afrizalhabibi.me/tags/game/</link>
+      <title>Friends</title>
+      <link>https://afrizalhabibi.me/tags/friends/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://afrizalhabibi.me/tags/game/</guid>
+      <guid>https://afrizalhabibi.me/tags/friends/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>HTML</title>
-      <link>https://afrizalhabibi.me/tags/html/</link>
+      <title>Life</title>
+      <link>https://afrizalhabibi.me/tags/life/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://afrizalhabibi.me/tags/html/</guid>
+      <guid>https://afrizalhabibi.me/tags/life/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>New</title>
-      <link>https://afrizalhabibi.me/tags/new/</link>
+      <title>Personality</title>
+      <link>https://afrizalhabibi.me/tags/personality/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://afrizalhabibi.me/tags/new/</guid>
+      <guid>https://afrizalhabibi.me/tags/personality/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Photos</title>
-      <link>https://afrizalhabibi.me/tags/photos/</link>
+      <title>Study</title>
+      <link>https://afrizalhabibi.me/tags/study/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://afrizalhabibi.me/tags/photos/</guid>
+      <guid>https://afrizalhabibi.me/tags/study/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Python</title>
-      <link>https://afrizalhabibi.me/tags/python/</link>
+      <title>Taiwan</title>
+      <link>https://afrizalhabibi.me/tags/taiwan/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://afrizalhabibi.me/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>React</title>
-      <link>https://afrizalhabibi.me/tags/react/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://afrizalhabibi.me/tags/react/</guid>
+      <guid>https://afrizalhabibi.me/tags/taiwan/</guid>
       <description></description>
     </item>
     

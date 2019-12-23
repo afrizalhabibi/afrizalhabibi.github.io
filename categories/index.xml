@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Afrizal Habibi - Personal Blog</title>
+    <title>Categories on Afrizal Habibi - Hujan dan Pertemuan</title>
     <link>https://afrizalhabibi.me/categories/</link>
-    <description>Recent content in Categories on Afrizal Habibi - Personal Blog</description>
+    <description>Recent content in Categories on Afrizal Habibi - Hujan dan Pertemuan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
@@ -12,29 +12,11 @@
     
     
     <item>
-      <title>Android And Gmaing</title>
-      <link>https://afrizalhabibi.me/categories/android-and-gmaing/</link>
+      <title>Writing</title>
+      <link>https://afrizalhabibi.me/categories/writing/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://afrizalhabibi.me/categories/android-and-gmaing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go Language</title>
-      <link>https://afrizalhabibi.me/categories/go-language/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://afrizalhabibi.me/categories/go-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML &amp; CSS</title>
-      <link>https://afrizalhabibi.me/categories/html-css/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://afrizalhabibi.me/categories/html-css/</guid>
+      <guid>https://afrizalhabibi.me/categories/writing/</guid>
       <description></description>
     </item>
     

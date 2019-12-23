@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Afrizal Habibi - Personal Blog</title>
+    <title>Afrizal Habibi - Hujan dan Pertemuan</title>
     <link>https://afrizalhabibi.me/</link>
-    <description>Recent content on Afrizal Habibi - Personal Blog</description>
+    <description>Recent content on Afrizal Habibi - Hujan dan Pertemuan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
@@ -12,57 +12,21 @@
     
     
     <item>
-      <title>About Me</title>
+      <title>Tentang</title>
       <link>https://afrizalhabibi.me/about/about/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
       <guid>https://afrizalhabibi.me/about/about/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <description>Afrizal Habibi, seorang content writer kelahiran Sampit, 29 September. Membaca, menulis, dan sesekali mengabadikan momen kedalam sebuah foto.</description>
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://afrizalhabibi.me/blog/post-10/</link>
+      <title>Hujan &amp; Pertemuan</title>
+      <link>https://afrizalhabibi.me/blog/hujan-dan-pertemuan/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://afrizalhabibi.me/blog/post-10/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://afrizalhabibi.me/blog/post-4/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://afrizalhabibi.me/blog/post-4/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://afrizalhabibi.me/blog/post-5/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://afrizalhabibi.me/blog/post-5/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>Selamat Datang di blog Habibi</title>
-      <link>https://afrizalhabibi.me/blog/post-1/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://afrizalhabibi.me/blog/post-1/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>Selamat Datang di blog Habibi</title>
-      <link>https://afrizalhabibi.me/blog/post-2/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://afrizalhabibi.me/blog/post-2/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://afrizalhabibi.me/blog/hujan-dan-pertemuan/</guid>
+      <description>&amp;ldquo;Saat dinginnya hujan dan hangatnya pertemuan bertemu di satu waktu&amp;rdquo; Lorem ipsum dolor sit amet consectetur adipisicing elit.</description>
     </item>
     
   </channel>
